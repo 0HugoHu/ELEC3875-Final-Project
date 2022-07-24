@@ -1,6 +1,6 @@
 # ELEC3875-Final-Project
 
-My undergraduate final project: Parking Robot based on 3D LiDAR. 
+My undergraduate final project: Parking Robot based on 3D LiDAR. ELEC3875 / XJEL3875
 
 **Keywords: Automatic Parking, SLAM, 3D Navigation, Remote Control, ROS, RRT**
 
